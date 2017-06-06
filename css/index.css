@@ -1,0 +1,24 @@
+
+body{
+	padding-top: 25px;
+	padding-bottom: 40px;
+}
+
+table a{
+	cursor: pointer;
+}
+
+.checkbox{
+	display: inline-block;
+	width: 14px;
+	height: 14px;
+	margin: 0;
+}
+
+#inputFile{
+	display: inline-block;
+}
+
+.dropdown-menu>li>a{
+	cursor: pointer;
+}
